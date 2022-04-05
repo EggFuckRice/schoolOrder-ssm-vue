@@ -1,6 +1,6 @@
 ---
 title: ReadMe
-date: 2020-10-08 21:27:30
+date: 2022-04-05
 tags:
 	-项目介绍
 
@@ -68,8 +68,6 @@ tags:
 ###### 5.2 运行```npm install```
 
 ###### 5.3 运行```npm run serve```
-
-#### 6. [项目地址](https://github.com/Teskinfly/XiaXiaOOS-ssm-vue-)
 
 
 
